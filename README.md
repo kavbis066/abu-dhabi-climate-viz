@@ -7,8 +7,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone [https://github.com/kavbis066/abu-dhabi-climate-viz.git](https://github.com/kavbis066/abu-dhabi-climate-viz.git)
+cd abu-dhabi-climate-viz
 npm install
 ```
 
